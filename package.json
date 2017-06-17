@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-streetcode",
+  "version": "0.0.0",
+  "dependencies": {
+    "babel-eslint": "7.2.3",
+    "eslint-plugin-import": "2.3.0",
+    "eslint-plugin-jsx-a11y": "5.0.3",
+    "eslint-plugin-react": "7.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
