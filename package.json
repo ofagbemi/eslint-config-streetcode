@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-streetcode",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "dependencies": {
     "babel-eslint": "7.2.3",
     "eslint-plugin-import": "2.3.0",
